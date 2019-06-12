@@ -1,15 +1,14 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Lighting Controller
+subtitle: MTL studio Lighting
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2018-05-01
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+project-date: May 2018
+client: University of Sussex
+category: Software Development & electronics
+description: Project was written in LUA for the JustMacros scripts and C++ for the controller code, used Git for version control of project. <br/> The project entailed writing software to be run on a micro controller in this case an Arduino that would link via internal network and receive commands via UDP packets from the gallery's server, the gallery would is running JustMacros where the LUA scripts written for the project can be and are mapped to a hotkey pad. <br/> This allowed for flexibility as the RGB values could be either hard coded to allow for presentations to have colour schemes to be mapped before hand and used at the push of a button or they can be changed on the fly and sent out and the user just needs to enter the values rather than change the whole script. <br/><br/> Constructing the electronics and wiring it all up to support 24 lighting strips (3 chained) from each 24v pack and connected to the Arduino was another part of the project, I worked on and constructed the electronics following the project managers schematic design and then alongside the lead technician to ensure the setup was to safety standards. We then ran all the cables in the gallery and studio following his and the project managers layout and thoroughly tested all outlets and packs and provided a safety report before full installation to the project manager. <br/><br/> The exciting part of the project is the LUA scripts function can be passed an RGB value of any colour along with a frequency code for Pulse Width Modulation of the led's. PWM or pulse duration modulation is essentially an imitation of an analog signal by turning the signal on and off in a pattern to simulate an steady voltage between 1-5v, used in LEDs for this project was essential as the studio used broadcasting cameras of varying types ranging from Sony EX3's to Blackmagic 4K cinema cameras. This variation meant that different frequency values provided different results for which cameras were in use e.g. lines could be seen on the light boxes as the PWM didn't match the frame rate the camera was working at.
 ---
