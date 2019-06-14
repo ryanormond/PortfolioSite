@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Projects for the University
+subtitle: Multiple Projects
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: 2014-01-01
+img: UniversityWorking.png
+thumbnail: USLogo.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: 2014 - 2018
+client: University of Sussex
+category: Technical, Camera, Floor manager, Tech organiser.
+description: Draper Lecture, Nov 2014 - Shami Chakrabarti - On Liberty and Alumni Law Networking <br/><br/>Sussex conversations, 2014 - 2017, London <br/><br/>Open day live streams 2014 - 2018, University of Sussex<br/><br/>A Dialogue, Sussex MTL in partnership with the Creative Arts department, MTL Youtube<br/><br/>And more.<br/><br/>Working on many different projects at the university in a very diverse role. One of the common projects allocated was filming and obtaining/creating content for the university from events. These were on and off campus events and required work solo and in teams, the projects also involved collaborating and liaising with others involved with the events to ensure to obtain the best footage and result. <br/><br/>The projects involved ensuring all equipment was ready and operational along with sourcing new equipment if required and in some cases constructing bespoke rigs, following shot requests and storyboards where required and following commands and ques from the director through headsets.
 
 ---
