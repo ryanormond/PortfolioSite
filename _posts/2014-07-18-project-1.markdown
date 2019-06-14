@@ -3,8 +3,8 @@ title: Sussex Conversations
 subtitle: University of Sussex
 layout: default
 modal-id: 1
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: SusConvo-collage.png
+thumbnail: SusConvo.png
 alt: image-alt
 client: University of Sussex
 category: Technical

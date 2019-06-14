@@ -4,8 +4,8 @@ subtitle: MTL studio Lighting
 layout: default
 modal-id: 2
 date: 2018-05-01
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: LightingStudio.png
+thumbnail: Studio_thumb.png
 alt: image-alt
 project-date: May 2018
 client: University of Sussex
